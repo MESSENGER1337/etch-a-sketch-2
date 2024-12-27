@@ -52,3 +52,5 @@ slider.addEventListener('input', () => {
 
 // Initialize grid
 fillGrid();
+
+// modified with chromebook
